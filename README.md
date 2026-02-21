@@ -3,7 +3,7 @@ practice to strengthen Python fundamentals and improve problem-solving skills th
 The focus is on building confidence in Python syntax, control structures, and data handling.
 
 ## Structure 
-- Solutions are organized by difficulty level (beginner, intermediate, advanced).
+- Solutions are organized by difficulty level (easy, medium, hard).
 - Each file corresponds to a specific HackerRank challenge.
 
 ## Goals 
